@@ -1,0 +1,45 @@
+.centered_text {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.big_font {
+  font-size: 1.5em;
+}
+
+.small_font {
+  font-size: .5em;
+}
+
+.bold_font {
+  font-weight: bold;
+}
+
+.new_font {
+  font-family: fantasy;
+}
+
+.crazy_text {
+  color: orange;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.styledFont {
+  color: green;
+}
+
+#styledImage {
+  border: solid 10px orange;
+}
